@@ -2,6 +2,7 @@
 
 Hi, this is me! Chen Xinyi
 
-Done
+- Done
 
 !(assets/WechatIMG1381.jpeg)
+
